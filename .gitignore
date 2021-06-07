@@ -1,25 +1,8 @@
-/SquareAPI/test.xlsx
-/SquareAPI/.ipynb_checkpoints/
-/SquareAPI/API_checkout_flow_work_with_orders_payments_refund_0528.ipynb
-/SquareAPI/API_customers_api_0527.ipynb
-/SquareAPI/API_items_api_batch_create_items_from_csv.ipynb
-/SquareAPI/API_orders_api_0527.ipynb
-/SquareAPI/API_refund_api_reverse_engineering_0528.ipynb
-/SquareAPI/SquareAPI_json_reader.ipynb
-/SquareAPI/df_coffee.csv
-/SquareAPI/df_coffee_raw.csv
-/SquareAPI/df_item_inven.csv
-/SquareAPI/extract_transaction.ipynb
-/SquareAPI/ingredients_extraction.ipynb
-/SquareAPI/item_extraction _0514.ipynb
-/SquareAPI/item_extraction.ipynb
-/SquareAPI/item_extraction_0519.ipynb
-/SquareAPI/kefei@192.168.1.8
-/SquareAPI/sample_data/
-/SquareAPI/square_client_explore.ipynb
 /main.py
 
 /MySQL/.ipynb_checkpoints/
+/SquareAPI/.ipynb_checkpoints/
 /SquareAPI/hist/
+/SquareAPI/sample_data/
 .idea
 
