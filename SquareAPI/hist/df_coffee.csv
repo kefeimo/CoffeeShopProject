@@ -1,0 +1,121 @@
+,item_header,name,extra_info,oz,size,temperature,item_id,price_fillna
+9,Americano (12oz HOT),Americano,(12oz HOT),12oz,12,HOT,#0009#,3.2
+10,Americano (12oz ICED),Americano,(12oz ICED),12oz,12,ICED,#0010#,3.2
+11,Americano (16oz HOT (quad shot)),Americano,(16oz HOT (quad shot)),16oz,16,HOT,#0011#,3.95
+12,Americano (16oz ICED),Americano,(16oz ICED),16oz,16,ICED,#0012#,3.2
+13,Americano (8oz HOT),Americano,(8oz HOT),8oz,8,HOT,#0013#,3.2
+19,Auburn Harvest (Sweet Potato Pie Latte) (12oz hot),Auburn Harvest,(Sweet Potato Pie Latte) (12oz hot),12oz,12,hot,#0019#,5.3
+20,Auburn Harvest (Sweet Potato Pie Latte) (12oz iced),Auburn Harvest,(Sweet Potato Pie Latte) (12oz iced),12oz,12,iced,#0020#,5.55
+21,Auburn Harvest (Sweet Potato Pie Latte) (16oz HOT ONLY),Auburn Harvest,(Sweet Potato Pie Latte) (16oz HOT ONLY),16oz,16,HOT,#0021#,6.05
+22,Auburn Harvest (Sweet Potato Pie Latte) (16oz iced),Auburn Harvest,(Sweet Potato Pie Latte) (16oz iced),16oz,16,iced,#0022#,6.3
+23,Auburn Harvest (Sweet Potato Pie Latte) (8oz hot),Auburn Harvest,(Sweet Potato Pie Latte) (8oz hot),8oz,8,hot,#0023#,4.8
+27,Batch Brew (12oz),Batch Brew,(12oz),12oz,12,,#0027#,3.0
+28,Batch Brew (16oz),Batch Brew,(16oz),16oz,16,,#0028#,3.75
+29,Batch Brew (8oz),Batch Brew,(8oz),8oz,8,,#0029#,2.5
+49,CHERRY Almond Cold Brew (12OZ),CHERRY Almond Cold Brew,(12OZ),12OZ,12,,#0049#,5.0
+50,CHERRY Almond Cold Brew (16OZ),CHERRY Almond Cold Brew,(16OZ),16OZ,16,,#0050#,5.5
+58,Cappuccino (Regular Cappuccino),Cappuccino,(Regular Cappuccino),,,,#0058#,3.8
+59,Chai Latte (12oz HOT),Chai Latte,(12oz HOT),12oz,12,HOT,#0059#,4.7
+60,Chai Latte (12oz ICED),Chai Latte,(12oz ICED),12oz,12,ICED,#0060#,4.2
+61,Chai Latte (16oz HOT),Chai Latte,(16oz HOT),16oz,16,HOT,#0061#,5.45
+62,Chai Latte (16oz ICED),Chai Latte,(16oz ICED),16oz,16,ICED,#0062#,4.7
+63,Chai Latte (8oz HOT),Chai Latte,(8oz HOT),8oz,8,HOT,#0063#,4.2
+65,Cherry Almond Cold Brew (12OZ),Cherry Almond Cold Brew,(12OZ),12OZ,12,,#0065#,5.0
+66,Cherry Almond Cold Brew (16OZ),Cherry Almond Cold Brew,(16OZ),16OZ,16,,#0066#,5.5
+76,Cortado (Regular),Cortado,(Regular),,,,#0076#,3.6
+101,Fireside Eve (Butterscotch-Whiskey Latte) (12oz hot),Fireside Eve,(Butterscotch-Whiskey Latte) (12oz hot),12oz,12,hot,#0101#,5.3
+102,Fireside Eve (Butterscotch-Whiskey Latte) (12oz iced),Fireside Eve,(Butterscotch-Whiskey Latte) (12oz iced),12oz,12,iced,#0102#,4.8
+103,Fireside Eve (Butterscotch-Whiskey Latte) (16oz HOT ONLY),Fireside Eve,(Butterscotch-Whiskey Latte) (16oz HOT ONLY),16oz,16,HOT,#0103#,6.05
+104,Fireside Eve (Butterscotch-Whiskey Latte) (16oz iced),Fireside Eve,(Butterscotch-Whiskey Latte) (16oz iced),16oz,16,iced,#0104#,5.3
+105,Fireside Eve (Butterscotch-Whiskey Latte) (8oz hot),Fireside Eve,(Butterscotch-Whiskey Latte) (8oz hot),8oz,8,hot,#0105#,4.8
+106,Flat White,Flat White - Black,,,,,#0106#,29.0
+107,Flat White (Regular),Flat White,(Regular),,,,#0107#,3.8
+114,GRAPEFRUIT Rosemary Cold Brew (12OZ),GRAPEFRUIT Rosemary Cold Brew,(12OZ),12OZ,12,,#0114#,5.0
+115,GRAPEFRUIT Rosemary Cold Brew (16OZ),GRAPEFRUIT Rosemary Cold Brew,(16OZ),16OZ,16,,#0115#,5.5
+126,Grapefruit Rosemary Cold Brew (12OZ),Grapefruit Rosemary Cold Brew,(12OZ),12OZ,12,,#0126#,5.0
+127,Grapefruit Rosemary Cold Brew (16OZ),Grapefruit Rosemary Cold Brew,(16OZ),16OZ,16,,#0127#,5.5
+141,Hand Brew (Costa Rica),Hand Brew,(Costa Rica),,,,#0141#,4.0
+142,Hand Brew (Current Selection),Hand Brew,(Current Selection),,,,#0142#,5.0
+143,Hand Brew (Ethiopia Natural | Yirgacheffe),Hand Brew,(Ethiopia Natural | Yirgacheffe),,,,#0143#,4.0
+144,Hand Brew (Ethiopia Washed | Yirgacheffe),Hand Brew,(Ethiopia Washed | Yirgacheffe),,,,#0144#,4.0
+145,Hand Brew (Gesha Reserve),Hand Brew,(Gesha Reserve),,,,#0145#,6.0
+146,Hand Brew (Green Gesha),Hand Brew,(Green Gesha),,,,#0146#,4.0
+147,Hand Brew (Honduras Natural | Finca Los Olivos),Hand Brew,(Honduras Natural | Finca Los Olivos),,,,#0147#,4.0
+148,Hand Brew (Kenya | Gititu AA),Hand Brew,(Kenya | Gititu AA),,,,#0148#,4.0
+150,Honey Pistachio Cold Brew (12OZ),Honey Pistachio Cold Brew,(12OZ),12OZ,12,,#0150#,5.0
+151,Honey Pistachio Cold Brew (16OZ),Honey Pistachio Cold Brew,(16OZ),16OZ,16,,#0151#,5.5
+161,Key Lime Latte (12oz HOT),Key Lime Latte,(12oz HOT),12oz,12,HOT,#0161#,6.0
+162,Key Lime Latte (12oz ICED),Key Lime Latte,(12oz ICED),12oz,12,ICED,#0162#,5.12
+163,Key Lime Latte (16oz HOT (quad shot)),Key Lime Latte,(16oz HOT (quad shot)),16oz,16,HOT,#0163#,6.0
+164,Key Lime Latte (16oz ICED),Key Lime Latte,(16oz ICED),16oz,16,ICED,#0164#,6.25
+165,Key Lime Latte (8oz HOT),Key Lime Latte,(8oz HOT),8oz,8,HOT,#0165#,4.75
+170,LEMON Poppyseed Matcha Latte (12oz HOT),LEMON Poppyseed Matcha Latte,(12oz HOT),12oz,12,HOT,#0170#,6.25
+171,LEMON Poppyseed Matcha Latte (12oz ICED),LEMON Poppyseed Matcha Latte,(12oz ICED),12oz,12,ICED,#0171#,5.0
+172,LEMON Poppyseed Matcha Latte (16oz HOT),LEMON Poppyseed Matcha Latte,(16oz HOT),16oz,16,HOT,#0172#,6.75
+173,LEMON Poppyseed Matcha Latte (16oz ICED),LEMON Poppyseed Matcha Latte,(16oz ICED),16oz,16,ICED,#0173#,6.5
+174,LEMON Poppyseed Matcha Latte (8oz HOT),LEMON Poppyseed Matcha Latte,(8oz HOT),8oz,8,HOT,#0174#,5.0
+175,LIME Latte (12oz HOT),LIME Latte,(12oz HOT),12oz,12,HOT,#0175#,5.3
+176,LIME Latte (12oz ICED),LIME Latte,(12oz ICED),12oz,12,ICED,#0176#,4.8
+177,LIME Latte (16oz HOT (quad shot)),LIME Latte,(16oz HOT (quad shot)),16oz,16,HOT,#0177#,6.05
+178,LIME Latte (16oz ICED),LIME Latte,(16oz ICED),16oz,16,ICED,#0178#,5.3
+179,LIME Latte (8oz HOT),LIME Latte,(8oz HOT),8oz,8,HOT,#0179#,4.8
+180,Latte (12oz HOT),Latte,(12oz HOT),12oz,12,HOT,#0180#,4.2
+181,Latte (12oz ICED),Latte,(12oz ICED),12oz,12,ICED,#0181#,4.3
+182,Latte (16oz HOT (quad shot)),Latte,(16oz HOT (quad shot)),16oz,16,HOT,#0182#,4.95
+183,Latte (16oz HOT),Latte,(16oz HOT),16oz,16,HOT,#0183#,5.62
+184,Latte (16oz ICED),Latte,(16oz ICED),16oz,16,ICED,#0184#,4.7
+185,Latte (8oz HOT),Latte,(8oz HOT),8oz,8,HOT,#0185#,4.3
+190,Maple Woods (Spiced Maple Cold Brew) (12oz),Maple Woods,(Spiced Maple Cold Brew) (12oz),12oz,12,,#0190#,5.0
+191,Maple Woods (Spiced Maple Cold Brew) (16oz),Maple Woods,(Spiced Maple Cold Brew) (16oz),16oz,16,,#0191#,5.5
+194,Matcha Latte (12oz HOT),Matcha Latte,(12oz HOT),12oz,12,HOT,#0194#,5.45
+195,Matcha Latte (12oz ICED),Matcha Latte,(12oz ICED),12oz,12,ICED,#0195#,4.95
+196,Matcha Latte (16oz HOT),Matcha Latte,(16oz HOT),16oz,16,HOT,#0196#,6.45
+197,Matcha Latte (16oz ICED),Matcha Latte,(16oz ICED),16oz,16,ICED,#0197#,5.7
+198,Matcha Latte (8oz HOT),Matcha Latte,(8oz HOT),8oz,8,HOT,#0198#,4.7
+206,Nitro Coldbrew (12oz),Nitro Coldbrew,(12oz),12oz,12,,#0206#,4.2
+207,Nitro Coldbrew (16oz),Nitro Coldbrew,(16oz),16oz,16,,#0207#,4.7
+208,ORANGE Latte (12oz HOT),ORANGE Latte,(12oz HOT),12oz,12,HOT,#0208#,6.05
+209,ORANGE Latte (12oz ICED),ORANGE Latte,(12oz ICED),12oz,12,ICED,#0209#,4.8
+210,ORANGE Latte (16oz HOT (quad shot)),ORANGE Latte,(16oz HOT (quad shot)),16oz,16,HOT,#0210#,6.05
+211,ORANGE Latte (16oz ICED),ORANGE Latte,(16oz ICED),16oz,16,ICED,#0211#,5.3
+212,ORANGE Latte (8oz HOT),ORANGE Latte,(8oz HOT),8oz,8,HOT,#0212#,4.8
+223,Orange Blossom Latte (12oz HOT),Orange Blossom Latte,(12oz HOT),12oz,12,HOT,#0223#,5.25
+224,Orange Blossom Latte (12oz ICED),Orange Blossom Latte,(12oz ICED),12oz,12,ICED,#0224#,4.75
+225,Orange Blossom Latte (16oz HOT (quad shot)),Orange Blossom Latte,(16oz HOT (quad shot)),16oz,16,HOT,#0225#,7.0
+226,Orange Blossom Latte (16oz HOT),Orange Blossom Latte,(16oz HOT),16oz,16,HOT,#0226#,6.0
+227,Orange Blossom Latte (16oz ICED),Orange Blossom Latte,(16oz ICED),16oz,16,ICED,#0227#,5.25
+228,Orange Blossom Latte (8oz HOT),Orange Blossom Latte,(8oz HOT),8oz,8,HOT,#0228#,4.75
+230,PISTACHIO Cold Brew (12OZ),PISTACHIO Cold Brew,(12OZ),12OZ,12,,#0230#,5.0
+231,PISTACHIO Cold Brew (16OZ),PISTACHIO Cold Brew,(16OZ),16OZ,16,,#0231#,5.5
+235,ROSE Latte (12oz HOT),ROSE Latte,(12oz HOT),12oz,12,HOT,#0235#,5.3
+236,ROSE Latte (12oz ICED),ROSE Latte,(12oz ICED),12oz,12,ICED,#0236#,4.8
+237,ROSE Latte (16oz HOT (quad shot)),ROSE Latte,(16oz HOT (quad shot)),16oz,16,HOT,#0237#,6.05
+238,ROSE Latte (16oz ICED),ROSE Latte,(16oz ICED),16oz,16,ICED,#0238#,6.3
+239,ROSE Latte (8oz HOT),ROSE Latte,(8oz HOT),8oz,8,HOT,#0239#,4.8
+253,Rose Cardamom Latte (12oz HOT),Rose Cardamom Latte,(12oz HOT),12oz,12,HOT,#0253#,5.25
+254,Rose Cardamom Latte (12oz ICED),Rose Cardamom Latte,(12oz ICED),12oz,12,ICED,#0254#,4.75
+255,Rose Cardamom Latte (16oz HOT (quad shot)),Rose Cardamom Latte,(16oz HOT (quad shot)),16oz,16,HOT,#0255#,6.0
+256,Rose Cardamom Latte (16oz HOT),Rose Cardamom Latte,(16oz HOT),16oz,16,HOT,#0256#,7.0
+257,Rose Cardamom Latte (16oz ICED),Rose Cardamom Latte,(16oz ICED),16oz,16,ICED,#0257#,5.25
+258,Rose Cardamom Latte (8oz HOT),Rose Cardamom Latte,(8oz HOT),8oz,8,HOT,#0258#,4.75
+292,Sunflower Latte (12oz HOT),Sunflower Latte,(12oz HOT),12oz,12,HOT,#0292#,5.25
+293,Sunflower Latte (12oz ICED),Sunflower Latte,(12oz ICED),12oz,12,ICED,#0293#,4.75
+294,Sunflower Latte (16oz HOT),Sunflower Latte,(16oz HOT),16oz,16,HOT,#0294#,6.0
+295,Sunflower Latte (16oz ICED),Sunflower Latte,(16oz ICED),16oz,16,ICED,#0295#,5.25
+296,Sunflower Latte (8oz HOT),Sunflower Latte,(8oz HOT),8oz,8,HOT,#0296#,4.75
+297,Sweater Weather (Spiced-Maple Latte) (12oz hot),Sweater Weather,(Spiced-Maple Latte) (12oz hot),12oz,12,hot,#0297#,5.3
+298,Sweater Weather (Spiced-Maple Latte) (12oz iced),Sweater Weather,(Spiced-Maple Latte) (12oz iced),12oz,12,iced,#0298#,4.8
+299,Sweater Weather (Spiced-Maple Latte) (16oz HOT ONLY),Sweater Weather,(Spiced-Maple Latte) (16oz HOT ONLY),16oz,16,HOT,#0299#,6.05
+300,Sweater Weather (Spiced-Maple Latte) (16oz iced),Sweater Weather,(Spiced-Maple Latte) (16oz iced),16oz,16,iced,#0300#,6.3
+301,Sweater Weather (Spiced-Maple Latte) (8oz hot),Sweater Weather,(Spiced-Maple Latte) (8oz hot),8oz,8,hot,#0301#,4.8
+309,Take-Home Chai Latte (Regular),Take-Home Chai Latte,(Regular),,,,#0309#,25.0
+310,Take-Home House Latte (Regular),Take-Home House Latte,(Regular),,,,#0310#,25.0
+311,Take-Home Oat Milk Latte (Regular),Take-Home Oat Milk Latte,(Regular),,,,#0311#,29.0
+312,Take-Home Seasonal Latte (Regular),Take-Home Seasonal Latte,(Regular),,,,#0312#,29.0
+314,Toasted Coconut Latte (12oz HOT),Toasted Coconut Latte,(12oz HOT),12oz,12,HOT,#0314#,5.25
+315,Toasted Coconut Latte (12oz ICED),Toasted Coconut Latte,(12oz ICED),12oz,12,ICED,#0315#,4.75
+316,Toasted Coconut Latte (16oz HOT),Toasted Coconut Latte,(16oz HOT),16oz,16,HOT,#0316#,6.0
+317,Toasted Coconut Latte (16oz ICED),Toasted Coconut Latte,(16oz ICED),16oz,16,ICED,#0317#,5.25
+318,Toasted Coconut Latte (8oz HOT),Toasted Coconut Latte,(8oz HOT),8oz,8,HOT,#0318#,4.75
+327,Yama Cold Brew (Single Origin) (12oz),Yama Cold Brew,(Single Origin) (12oz),12oz,12,,#0327#,5.2
+328,Yama Cold Brew (Single Origin) (16oz),Yama Cold Brew,(Single Origin) (16oz),16oz,16,,#0328#,5.7

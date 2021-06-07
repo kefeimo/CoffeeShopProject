@@ -1,0 +1,331 @@
+,item_header,name,extra_info,oz,size,temperature,item_id,price_fillna
+0,'Stay Cozy' 16oz Mug (Regular),'Stay Cozy' 16oz Mug,(Regular),16oz,16,,#0000#,15.0
+1,*WILD GOOSE GUEST BAKERY* (4.75),*WILD GOOSE GUEST BAKERY*,(4.75),,,,#0001#,4.75
+2,*WILD GOOSE GUEST BAKERY* (5),*WILD GOOSE GUEST BAKERY*,(5),,,,#0002#,0.0
+3,12 Month Coffee Subscription Gift,12 Month Coffee Subscription Gift - 12 oz,,,,,#0003#,204.0
+4,3 Month Coffee Subscription Gift,3 Month Coffee Subscription Gift - 12 oz,,,,,#0004#,51.0
+5,Add Flavor or House Espresso (Regular),Add Flavor or House Espresso,(Regular),,,,#0005#,0.48
+6,Add Rotating Single Origin Espresso (Regular),Add Rotating Single Origin Espresso,(Regular),,,,#0006#,0.94
+7,Aeropress (Regular),Aeropress,(Regular),,,,#0007#,35.0
+8,Almond Croissant (Regular Price),Almond Croissant,(Regular Price),,,,#0008#,4.75
+9,Americano (12oz HOT),Americano,(12oz HOT),12oz,12,HOT,#0009#,3.2
+10,Americano (12oz ICED),Americano,(12oz ICED),12oz,12,ICED,#0010#,3.2
+11,Americano (16oz HOT (quad shot)),Americano,(16oz HOT (quad shot)),16oz,16,HOT,#0011#,3.95
+12,Americano (16oz ICED),Americano,(16oz ICED),16oz,16,ICED,#0012#,3.2
+13,Americano (8oz HOT),Americano,(8oz HOT),8oz,8,HOT,#0013#,3.2
+14,Apple Juice (Regular Price),Apple Juice,(Regular Price),,,,#0014#,0.0
+15,Apple Orchard (Cider) (12oz hot),Apple Orchard,(Cider) (12oz hot),12oz,12,hot,#0015#,4.75
+16,Apple Orchard (Cider) (16oz hot),Apple Orchard,(Cider) (16oz hot),16oz,16,hot,#0016#,5.25
+17,Apple Orchard (Cider) (8oz hot),Apple Orchard,(Cider) (8oz hot),8oz,8,hot,#0017#,4.5
+18,Apple Orchard (Cider) (Sparkling),Apple Orchard,(Cider) (Sparkling),,,,#0018#,0.0
+19,Auburn Harvest (Sweet Potato Pie Latte) (12oz hot),Auburn Harvest,(Sweet Potato Pie Latte) (12oz hot),12oz,12,hot,#0019#,5.3
+20,Auburn Harvest (Sweet Potato Pie Latte) (12oz iced),Auburn Harvest,(Sweet Potato Pie Latte) (12oz iced),12oz,12,iced,#0020#,5.55
+21,Auburn Harvest (Sweet Potato Pie Latte) (16oz HOT ONLY),Auburn Harvest,(Sweet Potato Pie Latte) (16oz HOT ONLY),16oz,16,HOT,#0021#,6.05
+22,Auburn Harvest (Sweet Potato Pie Latte) (16oz iced),Auburn Harvest,(Sweet Potato Pie Latte) (16oz iced),16oz,16,iced,#0022#,6.3
+23,Auburn Harvest (Sweet Potato Pie Latte) (8oz hot),Auburn Harvest,(Sweet Potato Pie Latte) (8oz hot),8oz,8,hot,#0023#,4.8
+24,BURMA | Hornbill Chin,BURMA | Hornbill Chin,,,,,#0024#,22.0
+25,BURMA | Hornbill Chin (Regular),BURMA | Hornbill Chin,(Regular),,,,#0025#,22.0
+26,Bao Zhong (Regular),Bao Zhong,(Regular),,,,#0026#,0.0
+27,Batch Brew (12oz),Batch Brew,(12oz),12oz,12,,#0027#,3.0
+28,Batch Brew (16oz),Batch Brew,(16oz),16oz,16,,#0028#,3.75
+29,Batch Brew (8oz),Batch Brew,(8oz),8oz,8,,#0029#,2.5
+30,Beach Bum (12oz ICED),Beach Bum,(12oz ICED),12oz,12,ICED,#0030#,0.0
+31,Beach Bum (16oz ICED),Beach Bum,(16oz ICED),16oz,16,ICED,#0031#,5.5
+32,Beanie (Regular),Beanie,(Regular),,,,#0032#,20.0
+33,Black- China Breakfast (12oz HOT),Black- China Breakfast,(12oz HOT),12oz,12,HOT,#0033#,4.0
+34,Black- China Breakfast (16oz HOT),Black- China Breakfast,(16oz HOT),16oz,16,HOT,#0034#,5.25
+35,Black- China Breakfast (16oz ICED),Black- China Breakfast,(16oz ICED),16oz,16,ICED,#0035#,4.25
+36,Black- Yunnan Purple Buds Garden Direct (12oz HOT),Black- Yunnan Purple Buds Garden Direct,(12oz HOT),12oz,12,HOT,#0036#,5.0
+37,Botanical- Chamomile Medley (12oz HOT),Botanical- Chamomile Medley,(12oz HOT),12oz,12,HOT,#0037#,4.0
+38,Botanical- Chamomile Medley (16oz HOT),Botanical- Chamomile Medley,(16oz HOT),16oz,16,HOT,#0038#,4.75
+39,Botanical- Chamomile Medley (16oz ICED),Botanical- Chamomile Medley,(16oz ICED),16oz,16,ICED,#0039#,4.0
+40,Botanical- Patagonia Superberry (12oz HOT),Botanical- Patagonia Superberry,(12oz HOT),12oz,12,HOT,#0040#,4.0
+41,Botanical- Patagonia Superberry (16oz HOT),Botanical- Patagonia Superberry,(16oz HOT),16oz,16,HOT,#0041#,4.75
+42,Botanical- Patagonia Superberry (16oz ICED),Botanical- Patagonia Superberry,(16oz ICED),16oz,16,ICED,#0042#,4.0
+43,Botanical- Rooibos (12oz HOT),Botanical- Rooibos,(12oz HOT),12oz,12,HOT,#0043#,4.0
+44,Botanical- Rooibos (16oz HOT),Botanical- Rooibos,(16oz HOT),16oz,16,HOT,#0044#,4.75
+45,Botanical- Rooibos (16oz ICED),Botanical- Rooibos,(16oz ICED),16oz,16,ICED,#0045#,4.0
+46,Brownie (Regular),Brownie,(Regular),,,,#0046#,4.75
+47,Burma | Hornbill Chin (Regular),Burma | Hornbill Chin,(Regular),,,,#0047#,22.0
+48,Butter / Plain Croissant (Regular Price),Butter / Plain Croissant,(Regular Price),,,,#0048#,3.5
+49,CHERRY Almond Cold Brew (12OZ),CHERRY Almond Cold Brew,(12OZ),12OZ,12,,#0049#,5.0
+50,CHERRY Almond Cold Brew (16OZ),CHERRY Almond Cold Brew,(16OZ),16OZ,16,,#0050#,5.5
+51,COLOMBIA | Crucero,COLOMBIA | Crucero,,,,,#0051#,0.0
+52,COLOMBIA | Crucero (Regular),COLOMBIA | Crucero,(Regular),,,,#0052#,21.0
+53,COLOMBIA | LOS VENTENOS,COLOMBIA | LOS VENTENOS,,,,,#0053#,0.0
+54,COLOMBIA | LOS VENTENOS (Regular),COLOMBIA | LOS VENTENOS,(Regular),,,,#0054#,20.0
+55,COLOMBIA | Los Ventenos (Regular),COLOMBIA | Los Ventenos,(Regular),,,,#0055#,20.0
+56,COSTA RICA | Santa Rosa,COSTA RICA | Santa Rosa,,,,,#0056#,22.0
+57,COSTA RICA | Santa Rosa (Regular),COSTA RICA | Santa Rosa,(Regular),,,,#0057#,22.0
+58,Cappuccino (Regular Cappuccino),Cappuccino,(Regular Cappuccino),,,,#0058#,3.8
+59,Chai Latte (12oz HOT),Chai Latte,(12oz HOT),12oz,12,HOT,#0059#,4.7
+60,Chai Latte (12oz ICED),Chai Latte,(12oz ICED),12oz,12,ICED,#0060#,4.2
+61,Chai Latte (16oz HOT),Chai Latte,(16oz HOT),16oz,16,HOT,#0061#,5.45
+62,Chai Latte (16oz ICED),Chai Latte,(16oz ICED),16oz,16,ICED,#0062#,4.7
+63,Chai Latte (8oz HOT),Chai Latte,(8oz HOT),8oz,8,HOT,#0063#,4.2
+64,Chamomile Medley (Regular),Chamomile Medley,(Regular),,,,#0064#,15.0
+65,Cherry Almond Cold Brew (12OZ),Cherry Almond Cold Brew,(12OZ),12OZ,12,,#0065#,5.0
+66,Cherry Almond Cold Brew (16OZ),Cherry Almond Cold Brew,(16OZ),16OZ,16,,#0066#,5.5
+67,China Breakfast  (Regular),China Breakfast,(Regular),,,,#0067#,0.0
+68,China Breakfast (Regular),China Breakfast,(Regular),,,,#0068#,15.0
+69,Chocolate Croissant (Regular Price),Chocolate Croissant,(Regular Price),,,,#0069#,0.0
+70,Chocolate Croissant (Regular),Chocolate Croissant,(Regular),,,,#0070#,4.5
+71,Cocoa (large (16oz)),Cocoa,(large (16oz)),16oz,16,,#0071#,4.0
+72,Cocoa (medium (12oz)),Cocoa,(medium (12oz)),12oz,12,,#0072#,3.5
+73,Cocoa (small (8oz)),Cocoa,(small (8oz)),8oz,8,,#0073#,3.0
+74,Colombia | Agua de Dios (Regular),Colombia | Agua de Dios,(Regular),,,,#0074#,18.0
+75,Cookies (Regular),Cookies,(Regular),,,,#0075#,3.25
+76,Cortado (Regular),Cortado,(Regular),,,,#0076#,3.6
+77,Countryside Local Colorado Honey,Countryside Local Colorado Honey,,,,,#0077#,17.5
+78,Creamy / Honey Mint Julep (12oz -- Honey Mint Julep),Creamy / Honey Mint Julep,(12oz -- Honey Mint Julep),12oz,12,,#0078#,0.0
+79,Creamy / Honey Mint Julep (12oz-- Creamy Mint Julep),Creamy / Honey Mint Julep,(12oz-- Creamy Mint Julep),12oz,12,,#0079#,0.0
+80,Creamy / Honey Mint Julep (16oz-- Creamy Mint Julep),Creamy / Honey Mint Julep,(16oz-- Creamy Mint Julep),16oz,16,,#0080#,5.75
+81,Creamy / Honey Mint Julep (16oz-- Honey Mint Julep),Creamy / Honey Mint Julep,(16oz-- Honey Mint Julep),16oz,16,,#0081#,0.0
+82,Custom Amount,Custom Amount,,,,,#0082#,1.0
+83,DECAF | Colombia,DECAF | Colombia,,,,,#0083#,16.0
+84,Danish (Regular),Danish,(Regular),,,,#0084#,5.0
+85,Decaf | Colombia (Regular Price),Decaf | Colombia,(Regular Price),,,,#0085#,16.0
+86,Double Filling Croissant  (Regular),Double Filling Croissant,(Regular),,,,#0086#,4.5
+87,ELDERFLOWER Tonic (Regular),ELDERFLOWER Tonic,(Regular),,,,#0087#,5.5
+88,ETHIOPIA | YIRGACHEFFE NATURAL,ETHIOPIA | YIRGACHEFFE NATURAL,,,,,#0088#,20.0
+89,ETHIOPIA | YIRGACHEFFE WASHED,ETHIOPIA | YIRGACHEFFE WASHED,,,,,#0089#,35.46
+90,Embroidered Cap (Regular),Embroidered Cap,(Regular),,,,#0090#,21.0
+91,Embroidered Tee (Regular),Embroidered Tee,(Regular),,,,#0091#,23.0
+92,Espresso (Regular),Espresso,(Regular),,,,#0092#,3.2
+93,Espresso Tonic or Soda (Regular),Espresso Tonic or Soda,(Regular),,,,#0093#,4.75
+94,Ethiopia | Yirgacheffe NATURAL (Regular),Ethiopia | Yirgacheffe NATURAL,(Regular),,,,#0094#,20.0
+95,Ethiopia | Yirgacheffe WASHED (Regular),Ethiopia | Yirgacheffe WASHED,(Regular),,,,#0095#,20.0
+96,Filled Croissant (Regular),Filled Croissant,(Regular),,,,#0096#,4.5
+97,Firecracker (12oz ICED),Firecracker,(12oz ICED),12oz,12,ICED,#0097#,5.0
+98,Firecracker (12oz),Firecracker,(12oz),12oz,12,,#0098#,5.0
+99,Firecracker (16oz ICED),Firecracker,(16oz ICED),16oz,16,ICED,#0099#,5.5
+100,Firecracker (16oz),Firecracker,(16oz),16oz,16,,#0100#,5.5
+101,Fireside Eve (Butterscotch-Whiskey Latte) (12oz hot),Fireside Eve,(Butterscotch-Whiskey Latte) (12oz hot),12oz,12,hot,#0101#,5.3
+102,Fireside Eve (Butterscotch-Whiskey Latte) (12oz iced),Fireside Eve,(Butterscotch-Whiskey Latte) (12oz iced),12oz,12,iced,#0102#,4.8
+103,Fireside Eve (Butterscotch-Whiskey Latte) (16oz HOT ONLY),Fireside Eve,(Butterscotch-Whiskey Latte) (16oz HOT ONLY),16oz,16,HOT,#0103#,6.05
+104,Fireside Eve (Butterscotch-Whiskey Latte) (16oz iced),Fireside Eve,(Butterscotch-Whiskey Latte) (16oz iced),16oz,16,iced,#0104#,5.3
+105,Fireside Eve (Butterscotch-Whiskey Latte) (8oz hot),Fireside Eve,(Butterscotch-Whiskey Latte) (8oz hot),8oz,8,hot,#0105#,4.8
+106,Flat White,Flat White - Black,,,,,#0106#,29.0
+107,Flat White (Regular),Flat White,(Regular),,,,#0107#,3.8
+108,Frosty Peaks -- EARL GREY Cardamom Cream Soda (12oz),Frosty Peaks -- EARL GREY Cardamom Cream Soda,(12oz),12oz,12,,#0108#,0.0
+109,Frosty Peaks -- EARL GREY Cardamom Cream Soda (16oz),Frosty Peaks -- EARL GREY Cardamom Cream Soda,(16oz),16oz,16,,#0109#,5.5
+110,Frosty Peaks -- ESPRESSO Cardamom Cream Soda (12oz),Frosty Peaks -- ESPRESSO Cardamom Cream Soda,(12oz),12oz,12,,#0110#,5.0
+111,Frosty Peaks -- ESPRESSO Cardamom Cream Soda (16oz),Frosty Peaks -- ESPRESSO Cardamom Cream Soda,(16oz),16oz,16,,#0111#,5.5
+112,GESHA Monteverde Limited Release | Gutierrez Colombia,GESHA Monteverde Limited Release | Gutierrez Colombia,,,,,#0112#,39.0
+113,GESHA | Monteverde (Regular),GESHA | Monteverde,(Regular),,,,#0113#,39.0
+114,GRAPEFRUIT Rosemary Cold Brew (12OZ),GRAPEFRUIT Rosemary Cold Brew,(12OZ),12OZ,12,,#0114#,5.0
+115,GRAPEFRUIT Rosemary Cold Brew (16OZ),GRAPEFRUIT Rosemary Cold Brew,(16OZ),16OZ,16,,#0115#,5.5
+116,GREEN GESHA | Colombia Limited Release,GREEN GESHA | Colombia Limited Release,,,,,#0116#,43.88
+117,GUATEMALA | Finca La Union,GUATEMALA | Finca La Union,,,,,#0117#,19.35
+118,GUATEMALA | Pachup,GUATEMALA | Pachup,,,,,#0118#,18.0
+119,GUATEMALA | Pachup (Regular),GUATEMALA | Pachup,(Regular),,,,#0119#,19.0
+120,Gesha Limited Release (Regular),Gesha Limited Release,(Regular),,,,#0120#,39.0
+121,Gesha | Colombia (Regular),Gesha | Colombia,(Regular),,,,#0121#,39.0
+122,Gift Card,Gift Card,,,,,#0122#,0.0
+123,Golden Coast (12oz ICED),Golden Coast,(12oz ICED),12oz,12,ICED,#0123#,5.0
+124,Golden Coast (16oz ICED),Golden Coast,(16oz ICED),16oz,16,ICED,#0124#,5.5
+125,Golden Coast (16oz cold),Golden Coast,(16oz cold),16oz,16,,#0125#,5.5
+126,Grapefruit Rosemary Cold Brew (12OZ),Grapefruit Rosemary Cold Brew,(12OZ),12OZ,12,,#0126#,5.0
+127,Grapefruit Rosemary Cold Brew (16OZ),Grapefruit Rosemary Cold Brew,(16OZ),16OZ,16,,#0127#,5.5
+128,Green- Houjicha (12oz HOT),Green- Houjicha,(12oz HOT),12oz,12,HOT,#0128#,4.0
+129,Green- Houjicha (16oz HOT),Green- Houjicha,(16oz HOT),16oz,16,HOT,#0129#,4.75
+130,Green- Houjicha (16oz ICED),Green- Houjicha,(16oz ICED),16oz,16,ICED,#0130#,4.0
+131,Green- Moonlight Jasmine (12oz HOT),Green- Moonlight Jasmine,(12oz HOT),12oz,12,HOT,#0131#,5.0
+132,Green- Moonlight Jasmine (16oz HOT),Green- Moonlight Jasmine,(16oz HOT),16oz,16,HOT,#0132#,5.75
+133,Green- Moonlight Jasmine (16oz ICED),Green- Moonlight Jasmine,(16oz ICED),16oz,16,ICED,#0133#,5.0
+134,Green- Sencha Superior (12oz HOT),Green- Sencha Superior,(12oz HOT),12oz,12,HOT,#0134#,5.0
+135,Green- Sencha Superior (16OZ HOT),Green- Sencha Superior,(16OZ HOT),16OZ,16,HOT,#0135#,5.75
+136,Green- Sencha Superior (16OZ ICED),Green- Sencha Superior,(16OZ ICED),16OZ,16,ICED,#0136#,5.0
+137,Guatemala | Finca La Union (Regular),Guatemala | Finca La Union,(Regular),,,,#0137#,18.0
+138,Guatemala | Pachup (Regular),Guatemala | Pachup,(Regular),,,,#0138#,18.0
+139,Guatemala | Quisache (Regular),Guatemala | Quisache,(Regular),,,,#0139#,18.0
+140,HONDURAS | Finca Los Olivos,HONDURAS | Finca Los Olivos,,,,,#0140#,23.0
+141,Hand Brew (Costa Rica),Hand Brew,(Costa Rica),,,,#0141#,4.0
+142,Hand Brew (Current Selection),Hand Brew,(Current Selection),,,,#0142#,5.0
+143,Hand Brew (Ethiopia Natural | Yirgacheffe),Hand Brew,(Ethiopia Natural | Yirgacheffe),,,,#0143#,4.0
+144,Hand Brew (Ethiopia Washed | Yirgacheffe),Hand Brew,(Ethiopia Washed | Yirgacheffe),,,,#0144#,4.0
+145,Hand Brew (Gesha Reserve),Hand Brew,(Gesha Reserve),,,,#0145#,6.0
+146,Hand Brew (Green Gesha),Hand Brew,(Green Gesha),,,,#0146#,4.0
+147,Hand Brew (Honduras Natural | Finca Los Olivos),Hand Brew,(Honduras Natural | Finca Los Olivos),,,,#0147#,4.0
+148,Hand Brew (Kenya | Gititu AA),Hand Brew,(Kenya | Gititu AA),,,,#0148#,4.0
+149,Honduras | Finca Los Olivos (Regular),Honduras | Finca Los Olivos,(Regular),,,,#0149#,20.0
+150,Honey Pistachio Cold Brew (12OZ),Honey Pistachio Cold Brew,(12OZ),12OZ,12,,#0150#,5.0
+151,Honey Pistachio Cold Brew (16OZ),Honey Pistachio Cold Brew,(16OZ),16OZ,16,,#0151#,5.5
+152,Housemade Soda (12oz),Housemade Soda,(12oz),12oz,12,,#0152#,0.0
+153,Housemade Soda (16oz iced),Housemade Soda,(16oz iced),16oz,16,iced,#0153#,4.5
+154,Housemade Soda (One Size (one can)),Housemade Soda,(One Size (one can)),,,,#0154#,4.0
+155,Hydro Flask (16oz) (Regular Price),Hydro Flask,(16oz) (Regular Price),16oz,16,,#0155#,29.0
+156,KENYA | Muthuuzuni (Regular),KENYA | Muthuuzuni,(Regular),,,,#0156#,23.0
+157,KENYA | Muthuuzuni AB,KENYA | Muthuuzuni AB,,,,,#0157#,0.0
+158,KIWI Matcha (12OZ),KIWI Matcha,(12OZ),12OZ,12,,#0158#,5.0
+159,KIWI Matcha (16OZ),KIWI Matcha,(16OZ),16OZ,16,,#0159#,5.5
+160,Kenya | Gititu AA (Regular),Kenya | Gititu AA,(Regular),,,,#0160#,21.0
+161,Key Lime Latte (12oz HOT),Key Lime Latte,(12oz HOT),12oz,12,HOT,#0161#,6.0
+162,Key Lime Latte (12oz ICED),Key Lime Latte,(12oz ICED),12oz,12,ICED,#0162#,5.12
+163,Key Lime Latte (16oz HOT (quad shot)),Key Lime Latte,(16oz HOT (quad shot)),16oz,16,HOT,#0163#,6.0
+164,Key Lime Latte (16oz ICED),Key Lime Latte,(16oz ICED),16oz,16,ICED,#0164#,6.25
+165,Key Lime Latte (8oz HOT),Key Lime Latte,(8oz HOT),8oz,8,HOT,#0165#,4.75
+166,Kombucha (12oz),Kombucha,(12oz),12oz,12,,#0166#,4.5
+167,Kombucha (16oz),Kombucha,(16oz),16oz,16,,#0167#,5.0
+168,Kombucha (32oz Growler),Kombucha,(32oz Growler),32oz,32,,#0168#,14.0
+169,Kombucha (Growler Refill),Kombucha,(Growler Refill),,,,#0169#,10.0
+170,LEMON Poppyseed Matcha Latte (12oz HOT),LEMON Poppyseed Matcha Latte,(12oz HOT),12oz,12,HOT,#0170#,6.25
+171,LEMON Poppyseed Matcha Latte (12oz ICED),LEMON Poppyseed Matcha Latte,(12oz ICED),12oz,12,ICED,#0171#,5.0
+172,LEMON Poppyseed Matcha Latte (16oz HOT),LEMON Poppyseed Matcha Latte,(16oz HOT),16oz,16,HOT,#0172#,6.75
+173,LEMON Poppyseed Matcha Latte (16oz ICED),LEMON Poppyseed Matcha Latte,(16oz ICED),16oz,16,ICED,#0173#,6.5
+174,LEMON Poppyseed Matcha Latte (8oz HOT),LEMON Poppyseed Matcha Latte,(8oz HOT),8oz,8,HOT,#0174#,5.0
+175,LIME Latte (12oz HOT),LIME Latte,(12oz HOT),12oz,12,HOT,#0175#,5.3
+176,LIME Latte (12oz ICED),LIME Latte,(12oz ICED),12oz,12,ICED,#0176#,4.8
+177,LIME Latte (16oz HOT (quad shot)),LIME Latte,(16oz HOT (quad shot)),16oz,16,HOT,#0177#,6.05
+178,LIME Latte (16oz ICED),LIME Latte,(16oz ICED),16oz,16,ICED,#0178#,5.3
+179,LIME Latte (8oz HOT),LIME Latte,(8oz HOT),8oz,8,HOT,#0179#,4.8
+180,Latte (12oz HOT),Latte,(12oz HOT),12oz,12,HOT,#0180#,4.2
+181,Latte (12oz ICED),Latte,(12oz ICED),12oz,12,ICED,#0181#,4.3
+182,Latte (16oz HOT (quad shot)),Latte,(16oz HOT (quad shot)),16oz,16,HOT,#0182#,4.95
+183,Latte (16oz HOT),Latte,(16oz HOT),16oz,16,HOT,#0183#,5.62
+184,Latte (16oz ICED),Latte,(16oz ICED),16oz,16,ICED,#0184#,4.7
+185,Latte (8oz HOT),Latte,(8oz HOT),8oz,8,HOT,#0185#,4.3
+186,Lemonade- Flavored (Large- 16oz),Lemonade- Flavored,(Large- 16oz),16oz,16,,#0186#,4.5
+187,Lemonade- Flavored (Med- 12oz),Lemonade- Flavored,(Med- 12oz),12oz,12,,#0187#,4.0
+188,Lemonades (Large- 16oz),Lemonades,(Large- 16oz),16oz,16,,#0188#,4.5
+189,Lemonades (Med- 12oz),Lemonades,(Med- 12oz),12oz,12,,#0189#,4.0
+190,Maple Woods (Spiced Maple Cold Brew) (12oz),Maple Woods,(Spiced Maple Cold Brew) (12oz),12oz,12,,#0190#,5.0
+191,Maple Woods (Spiced Maple Cold Brew) (16oz),Maple Woods,(Spiced Maple Cold Brew) (16oz),16oz,16,,#0191#,5.5
+192,Masks (Regular Mask),Masks,(Regular Mask),,,,#0192#,20.0
+193,Masks (burberry mask),Masks,(burberry mask),,,,#0193#,30.0
+194,Matcha Latte (12oz HOT),Matcha Latte,(12oz HOT),12oz,12,HOT,#0194#,5.45
+195,Matcha Latte (12oz ICED),Matcha Latte,(12oz ICED),12oz,12,ICED,#0195#,4.95
+196,Matcha Latte (16oz HOT),Matcha Latte,(16oz HOT),16oz,16,HOT,#0196#,6.45
+197,Matcha Latte (16oz ICED),Matcha Latte,(16oz ICED),16oz,16,ICED,#0197#,5.7
+198,Matcha Latte (8oz HOT),Matcha Latte,(8oz HOT),8oz,8,HOT,#0198#,4.7
+199,Matcha Mango Mojito (12oz ICED),Matcha Mango Mojito,(12oz ICED),12oz,12,ICED,#0199#,5.0
+200,Matcha Mango Mojito (12oz cold),Matcha Mango Mojito,(12oz cold),12oz,12,,#0200#,5.0
+201,Matcha Mango Mojito (16oz ICED),Matcha Mango Mojito,(16oz ICED),16oz,16,ICED,#0201#,5.5
+202,Matcha Mango Mojito (16oz cold),Matcha Mango Mojito,(16oz cold),16oz,16,,#0202#,5.5
+203,Monthly Coffee Subscription,Monthly Coffee Subscription - 12 oz,,,,,#0203#,17.0
+204,Moonlight Jasmine  (Regular),Moonlight Jasmine,(Regular),,,,#0204#,30.0
+205,Moonlight Jasmine (Regular),Moonlight Jasmine,(Regular),,,,#0205#,30.0
+206,Nitro Coldbrew (12oz),Nitro Coldbrew,(12oz),12oz,12,,#0206#,4.2
+207,Nitro Coldbrew (16oz),Nitro Coldbrew,(16oz),16oz,16,,#0207#,4.7
+208,ORANGE Latte (12oz HOT),ORANGE Latte,(12oz HOT),12oz,12,HOT,#0208#,6.05
+209,ORANGE Latte (12oz ICED),ORANGE Latte,(12oz ICED),12oz,12,ICED,#0209#,4.8
+210,ORANGE Latte (16oz HOT (quad shot)),ORANGE Latte,(16oz HOT (quad shot)),16oz,16,HOT,#0210#,6.05
+211,ORANGE Latte (16oz ICED),ORANGE Latte,(16oz ICED),16oz,16,ICED,#0211#,5.3
+212,ORANGE Latte (8oz HOT),ORANGE Latte,(8oz HOT),8oz,8,HOT,#0212#,4.8
+213,Oatly Retail (Employee At Cost (no added discount to this please)),Oatly Retail,(Employee At Cost (no added discount to this please)),,,,#0213#,3.0
+214,On Tap Iced Tea (Large- 16oz),On Tap Iced Tea,(Large- 16oz),16oz,16,Iced,#0214#,4.5
+215,On Tap Iced Tea (Med- 12oz),On Tap Iced Tea,(Med- 12oz),12oz,12,Iced,#0215#,4.0
+216,One & One (Regular),One & One,(Regular),,,,#0216#,3.6
+217,Oolong- Bao Zhong (12oz HOT),Oolong- Bao Zhong,(12oz HOT),12oz,12,HOT,#0217#,4.0
+218,Oolong- Bao Zhong (16oz HOT),Oolong- Bao Zhong,(16oz HOT),16oz,16,HOT,#0218#,4.75
+219,Oolong- Bao Zhong (16oz ICED),Oolong- Bao Zhong,(16oz ICED),16oz,16,ICED,#0219#,4.0
+220,Oolong- Ruby (12oz HOT),Oolong- Ruby,(12oz HOT),12oz,12,HOT,#0220#,5.0
+221,Oolong- Ruby (16oz HOT),Oolong- Ruby,(16oz HOT),16oz,16,HOT,#0221#,5.75
+222,Oolong- Ruby (16oz ICED),Oolong- Ruby,(16oz ICED),16oz,16,ICED,#0222#,5.0
+223,Orange Blossom Latte (12oz HOT),Orange Blossom Latte,(12oz HOT),12oz,12,HOT,#0223#,5.25
+224,Orange Blossom Latte (12oz ICED),Orange Blossom Latte,(12oz ICED),12oz,12,ICED,#0224#,4.75
+225,Orange Blossom Latte (16oz HOT (quad shot)),Orange Blossom Latte,(16oz HOT (quad shot)),16oz,16,HOT,#0225#,7.0
+226,Orange Blossom Latte (16oz HOT),Orange Blossom Latte,(16oz HOT),16oz,16,HOT,#0226#,6.0
+227,Orange Blossom Latte (16oz ICED),Orange Blossom Latte,(16oz ICED),16oz,16,ICED,#0227#,5.25
+228,Orange Blossom Latte (8oz HOT),Orange Blossom Latte,(8oz HOT),8oz,8,HOT,#0228#,4.75
+229,Origin Burlap Tote (Regular),Origin Burlap Tote,(Regular),,,,#0229#,50.0
+230,PISTACHIO Cold Brew (12OZ),PISTACHIO Cold Brew,(12OZ),12OZ,12,,#0230#,5.0
+231,PISTACHIO Cold Brew (16OZ),PISTACHIO Cold Brew,(16OZ),16OZ,16,,#0231#,5.5
+232,Perrier/Fiji (Regular Price),Perrier/Fiji,(Regular Price),,,,#0232#,2.25
+233,Pineapple Tee (Regular),Pineapple Tee,(Regular),,,,#0233#,21.0
+234,Quiche (Regular),Quiche,(Regular),,,,#0234#,7.0
+235,ROSE Latte (12oz HOT),ROSE Latte,(12oz HOT),12oz,12,HOT,#0235#,5.3
+236,ROSE Latte (12oz ICED),ROSE Latte,(12oz ICED),12oz,12,ICED,#0236#,4.8
+237,ROSE Latte (16oz HOT (quad shot)),ROSE Latte,(16oz HOT (quad shot)),16oz,16,HOT,#0237#,6.05
+238,ROSE Latte (16oz ICED),ROSE Latte,(16oz ICED),16oz,16,ICED,#0238#,6.3
+239,ROSE Latte (8oz HOT),ROSE Latte,(8oz HOT),8oz,8,HOT,#0239#,4.8
+240,ROSE Matcha (12oz HOT),ROSE Matcha,(12oz HOT),12oz,12,HOT,#0240#,6.25
+241,ROSE Matcha (12oz ICED),ROSE Matcha,(12oz ICED),12oz,12,ICED,#0241#,5.75
+242,ROSE Matcha (16oz HOT),ROSE Matcha,(16oz HOT),16oz,16,HOT,#0242#,7.25
+243,ROSE Matcha (16oz ICED),ROSE Matcha,(16oz ICED),16oz,16,ICED,#0243#,6.65
+244,ROSE Matcha (8oz HOT),ROSE Matcha,(8oz HOT),8oz,8,HOT,#0244#,5.5
+245,RWANDA | GIHANGA,RWANDA | GIHANGA,,,,,#0245#,25.0
+246,RWANDA | GIHANGA Natural,RWANDA | GIHANGA Natural,,,,,#0246#,23.0
+247,RWANDA | Gihanga (Regular),RWANDA | Gihanga,(Regular),,,,#0247#,20.0
+248,RWANDA | Gihanga Natural (Regular),RWANDA | Gihanga Natural,(Regular),,,,#0248#,20.0
+249,Refill (Regular),Refill,(Regular),,,,#0249#,0.96
+250,Ritual Assorted  single chocolate (Regular),Ritual Assorted  single chocolate,(Regular),,,,#0250#,10.0
+251,Ritual Mexico (Regular),Ritual Mexico,(Regular),,,,#0251#,12.0
+252,Ritual Peru (Regular),Ritual Peru,(Regular),,,,#0252#,10.0
+253,Rose Cardamom Latte (12oz HOT),Rose Cardamom Latte,(12oz HOT),12oz,12,HOT,#0253#,5.25
+254,Rose Cardamom Latte (12oz ICED),Rose Cardamom Latte,(12oz ICED),12oz,12,ICED,#0254#,4.75
+255,Rose Cardamom Latte (16oz HOT (quad shot)),Rose Cardamom Latte,(16oz HOT (quad shot)),16oz,16,HOT,#0255#,6.0
+256,Rose Cardamom Latte (16oz HOT),Rose Cardamom Latte,(16oz HOT),16oz,16,HOT,#0256#,7.0
+257,Rose Cardamom Latte (16oz ICED),Rose Cardamom Latte,(16oz ICED),16oz,16,ICED,#0257#,5.25
+258,Rose Cardamom Latte (8oz HOT),Rose Cardamom Latte,(8oz HOT),8oz,8,HOT,#0258#,4.75
+259,Rose Cardamom Matcha (12oz HOT),Rose Cardamom Matcha,(12oz HOT),12oz,12,HOT,#0259#,6.02
+260,Rose Cardamom Matcha (12oz ICED),Rose Cardamom Matcha,(12oz ICED),12oz,12,ICED,#0260#,5.9
+261,Rose Cardamom Matcha (16oz HOT),Rose Cardamom Matcha,(16oz HOT),16oz,16,HOT,#0261#,7.35
+262,Rose Cardamom Matcha (16oz ICED),Rose Cardamom Matcha,(16oz ICED),16oz,16,ICED,#0262#,5.65
+263,Rose Cardamom Matcha (8oz HOT),Rose Cardamom Matcha,(8oz HOT),8oz,8,HOT,#0263#,5.15
+264,SONDER Beanie,SONDER Beanie,,,,,#0264#,20.0
+265,SONDER Cap (Regular),SONDER Cap,(Regular),,,,#0265#,23.0
+266,SONDER Cap Black-on-black (Regular),SONDER Cap Black-on-black,(Regular),,,,#0266#,21.0
+267,SONDER Embroidered Caps,SONDER Embroidered Caps - Flower Crown / Beige,,,,,#0267#,25.72
+268,SONDER Embroidered Tees,SONDER Embroidered Tees - L,,,,,#0268#,41.58
+269,SONDER Sticker (Regular),SONDER Sticker,(Regular),,,,#0269#,0.94
+270,SONDER Sticker Pack,SONDER Sticker Pack,,,,,#0270#,6.75
+271,STAY COZY Mug,STAY COZY Mug,,,,,#0271#,16.12
+272,Savory Croissant  (Regular),Savory Croissant,(Regular),,,,#0272#,5.5
+273,Savory Croissant (Mushroom Swiss/ Chile Cheese) (Regular),Savory Croissant,(Mushroom Swiss/ Chile Cheese) (Regular),,,,#0273#,5.0
+274,Savory Croissant (Regular),Savory Croissant,(Regular),,,,#0274#,5.5
+275,Seasonal- Cinnamon Plum (12oz HOT),Seasonal- Cinnamon Plum,(12oz HOT),12oz,12,HOT,#0275#,4.5
+276,Seasonal- Cinnamon Plum (16oz HOT),Seasonal- Cinnamon Plum,(16oz HOT),16oz,16,HOT,#0276#,5.25
+277,Seasonal- Cinnamon Plum (16oz ICED),Seasonal- Cinnamon Plum,(16oz ICED),16oz,16,ICED,#0277#,4.5
+278,Seasonal- Tangerine Ginger (16oz HOT),Seasonal- Tangerine Ginger,(16oz HOT),16oz,16,HOT,#0278#,5.25
+279,Seasonal- Tangerine Ginger (16oz ICED),Seasonal- Tangerine Ginger,(16oz ICED),16oz,16,ICED,#0279#,4.5
+280,Single Origin Coffee Bag Subscription,Single Origin Coffee Bag Subscription - 12 oz,,,,,#0280#,17.0
+281,Single Origin Coffee Subscription,Single Origin Coffee Subscription,,,,,#0281#,17.0
+282,Single Origin One Coffee Bag Subscription,Single Origin One Coffee Bag Subscription,,,,,#0282#,0.0
+283,Snowfall Spice (Cardamom Cream Chai) (12oz hot/ 16oz iced),Snowfall Spice,(Cardamom Cream Chai) (12oz hot/ 16oz iced),12oz16oz,1216,hoticed,#0283#,5.5
+284,Snowfall Spice (Cardamom Cream Chai) (16oz HOT ONLY),Snowfall Spice,(Cardamom Cream Chai) (16oz HOT ONLY),16oz,16,HOT,#0284#,6.25
+285,Snowfall Spice (Cardamom Cream Chai) (8oz/ 12oz cold),Snowfall Spice,(Cardamom Cream Chai) (8oz/ 12oz cold),8oz12oz,812,,#0285#,5.0
+286,Starry Night (12oz ICED),Starry Night,(12oz ICED),12oz,12,ICED,#0286#,5.0
+287,Starry Night (12oz),Starry Night,(12oz),12oz,12,,#0287#,5.0
+288,Starry Night (16oz ICED),Starry Night,(16oz ICED),16oz,16,ICED,#0288#,5.5
+289,Starry Night (16oz),Starry Night,(16oz),16oz,16,,#0289#,5.5
+290,Summer Meadow (12oz ICED),Summer Meadow,(12oz ICED),12oz,12,ICED,#0290#,5.0
+291,Summer Meadow (16oz ICED),Summer Meadow,(16oz ICED),16oz,16,ICED,#0291#,5.5
+292,Sunflower Latte (12oz HOT),Sunflower Latte,(12oz HOT),12oz,12,HOT,#0292#,5.25
+293,Sunflower Latte (12oz ICED),Sunflower Latte,(12oz ICED),12oz,12,ICED,#0293#,4.75
+294,Sunflower Latte (16oz HOT),Sunflower Latte,(16oz HOT),16oz,16,HOT,#0294#,6.0
+295,Sunflower Latte (16oz ICED),Sunflower Latte,(16oz ICED),16oz,16,ICED,#0295#,5.25
+296,Sunflower Latte (8oz HOT),Sunflower Latte,(8oz HOT),8oz,8,HOT,#0296#,4.75
+297,Sweater Weather (Spiced-Maple Latte) (12oz hot),Sweater Weather,(Spiced-Maple Latte) (12oz hot),12oz,12,hot,#0297#,5.3
+298,Sweater Weather (Spiced-Maple Latte) (12oz iced),Sweater Weather,(Spiced-Maple Latte) (12oz iced),12oz,12,iced,#0298#,4.8
+299,Sweater Weather (Spiced-Maple Latte) (16oz HOT ONLY),Sweater Weather,(Spiced-Maple Latte) (16oz HOT ONLY),16oz,16,HOT,#0299#,6.05
+300,Sweater Weather (Spiced-Maple Latte) (16oz iced),Sweater Weather,(Spiced-Maple Latte) (16oz iced),16oz,16,iced,#0300#,6.3
+301,Sweater Weather (Spiced-Maple Latte) (8oz hot),Sweater Weather,(Spiced-Maple Latte) (8oz hot),8oz,8,hot,#0301#,4.8
+302,Sweatshirts (Regular),Sweatshirts,(Regular),,,,#0302#,34.0
+303,Sweet Filled Croissant (Regular),Sweet Filled Croissant,(Regular),,,,#0303#,4.5
+304,Sweet Jams (12oz ICED),Sweet Jams,(12oz ICED),12oz,12,ICED,#0304#,5.0
+305,Sweet Jams (12oz),Sweet Jams,(12oz),12oz,12,,#0305#,0.0
+306,Sweet Jams (16oz ICED),Sweet Jams,(16oz ICED),16oz,16,ICED,#0306#,5.5
+307,Sweet Jams (16oz),Sweet Jams,(16oz),16oz,16,,#0307#,0.0
+308,Take-Home Apple Orchard (Regular),Take-Home Apple Orchard,(Regular),,,,#0308#,25.0
+309,Take-Home Chai Latte (Regular),Take-Home Chai Latte,(Regular),,,,#0309#,25.0
+310,Take-Home House Latte (Regular),Take-Home House Latte,(Regular),,,,#0310#,25.0
+311,Take-Home Oat Milk Latte (Regular),Take-Home Oat Milk Latte,(Regular),,,,#0311#,29.0
+312,Take-Home Seasonal Latte (Regular),Take-Home Seasonal Latte,(Regular),,,,#0312#,29.0
+313,Thermal Tumbler,Thermal Tumbler - White,,,,,#0313#,29.0
+314,Toasted Coconut Latte (12oz HOT),Toasted Coconut Latte,(12oz HOT),12oz,12,HOT,#0314#,5.25
+315,Toasted Coconut Latte (12oz ICED),Toasted Coconut Latte,(12oz ICED),12oz,12,ICED,#0315#,4.75
+316,Toasted Coconut Latte (16oz HOT),Toasted Coconut Latte,(16oz HOT),16oz,16,HOT,#0316#,6.0
+317,Toasted Coconut Latte (16oz ICED),Toasted Coconut Latte,(16oz ICED),16oz,16,ICED,#0317#,5.25
+318,Toasted Coconut Latte (8oz HOT),Toasted Coconut Latte,(8oz HOT),8oz,8,HOT,#0318#,4.75
+319,Topo Chico/Fiji (Regular Price),Topo Chico/Fiji,(Regular Price),,,,#0319#,2.25
+320,Turkey & Cheese Croissant (Regular),Turkey & Cheese Croissant,(Regular),,,,#0320#,5.5
+321,White Tea Rose Melange (Regular),White Tea Rose Melange,(Regular),,,,#0321#,18.0
+322,White- Rose Melange (12oz HOT),White- Rose Melange,(12oz HOT),12oz,12,HOT,#0322#,4.0
+323,White- Rose Melange (16oz HOT),White- Rose Melange,(16oz HOT),16oz,16,HOT,#0323#,4.75
+324,White- Rose Melange (16oz ICED),White- Rose Melange,(16oz ICED),16oz,16,ICED,#0324#,4.0
+325,Winter Whiteout (Spiced-Maple Earl Grey) (12oz),Winter Whiteout,(Spiced-Maple Earl Grey) (12oz),12oz,12,,#0325#,4.75
+326,Winter Whiteout (Spiced-Maple Earl Grey) (16oz),Winter Whiteout,(Spiced-Maple Earl Grey) (16oz),16oz,16,,#0326#,5.25
+327,Yama Cold Brew (Single Origin) (12oz),Yama Cold Brew,(Single Origin) (12oz),12oz,12,,#0327#,5.2
+328,Yama Cold Brew (Single Origin) (16oz),Yama Cold Brew,(Single Origin) (16oz),16oz,16,,#0328#,5.7
+329,eGift Card,eGift Card,,,,,#0329#,0.0
